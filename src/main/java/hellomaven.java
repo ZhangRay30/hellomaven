@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class hellomaven {
+public class hellomaven {
+    public static void main(String[] args){
+        System.out.println("hello");
+    }
 }
